@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-<img src="https://github.com/MrHarvyson/MrHarvyson/blob/main/FOTO.png?raw=true" alt="JuveYell" width="200px">
+<img src="https://github.com/MrHarvyson/MrHarvyson/blob/main/photo.png?raw=true" alt="JuveYell" width="200px">
 </p>
 </div>
 <p align="center">
