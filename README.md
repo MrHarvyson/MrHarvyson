@@ -1,8 +1,8 @@
-<div>
+
 <p align="center">
-<img src="https://github.com/MrHarvyson/MrHarvyson/blob/main/photo.png?raw=true" alt="JuveYell" width="200px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6cHNhdG44dzU2MzAyZnEyNTZsazgxZjFoMjNtZHFidG40YXY3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" alt="JuveYell" width="200px">
 </p>
-</div>
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><a href="https://git.io/typing-svg">
     &nbsp
